@@ -1,0 +1,11 @@
+ResDMD:
+  type: Article
+  title: "Decadal Forecasts with ResDMD: a Residual DMD Neural Network"
+  author: [Eduardo Rodrigues, Bianca Zadrozny, Campbell Watson, David Gold]
+  date: 2021-06-21
+  # url: https://arxiv.org/abs/2106.11111
+
+SST:
+  type: Web
+  title: NOAA Optimum Interpolation (OI) SST V2
+  url: https://www.psl.noaa.gov/data/gridded/data.noaa.oisst.v2.html
