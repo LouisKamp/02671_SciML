@@ -15,16 +15,17 @@ Note that this code is meant to be run on the dtu HPC since the model needs a lo
 The env used for the project is defined here:
 `./project/envSML.sh`
 
-## Excessices
+## exercises
 Notebooks are placed under:
-`./excessices/*.ipynb`
+`./exercises/*.ipynb`
 
 The exported notebooks can be found:
-`./excessices/export/*.(html|pdf)`
+`./exercises/export/*.(html|pdf)`
 
 For best viewing experience use the notebooks or the html files. (The plots in the PDF files are a bit wonky)..
+To view animation open the exercises in the .ipynb or .html files.
 
 ### Python env
 These excessices use a env created by python-poetry. See python-poetry.org.
 The project env is defined here:
-`./excessices/pyproject.toml`
+`./exercises/pyproject.toml`
